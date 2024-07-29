@@ -122,4 +122,10 @@ void loop() {
 
 ![لمبه تشبيك](https://github.com/user-attachments/assets/78666447-e2c5-4ec8-b17a-abc2c95b5208)
 ![شغال](https://github.com/user-attachments/assets/721d3638-8a87-48a6-b4a1-c1e59f63b8ee)
+### 4- Lamp control website :
+![تشغيل](https://github.com/user-attachments/assets/1472888b-1b0e-4b51-8c9c-9676f8b2f4fa)
+
+![قفل](https://github.com/user-attachments/assets/b4053c4d-e88c-4802-9f36-365e3e06830d)
+
+
 
